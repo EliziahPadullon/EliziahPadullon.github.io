@@ -4,10 +4,9 @@
             title: "Student Portfolio Profile",
             images: [
                 { src: "/images/unfold1.png", title: "Login Page", description: "This is where you login and create accounts" },
-                { src: "/images/unfold2.png", title: "Project Dashboard", description: "Here is where students can add, edit, and delete their projects and " },
-                { src: "/images/unfold3.png", title: "About", description: "This is the student's profile page 3" },
+                { src: "/images/unfold2.png", title: "Project Dashboard", description: "Here is where students can add, edit, and delete their projects" },
+                { src: "/images/unfold3.png", title: "About", description: "This is the student's profile page" },
                 { src: "/images/unfold4.png", title: "Portfolio Feed", description: "The newsfeed for finding students" },
-                
             ]
         },
         {
@@ -41,8 +40,9 @@
     <div class="container mx-auto px-4 py-8">
         {#each projects as project}
             <div class="mb-10">
-                <h2 class="text-gray-2xl font-semibold mb-4">{project.title}</h2>
-                <div class="grid grid-cols-3 gap-6">
+                <h2 class="text-gray-800 text-2xl font-semibold mb-4">{project.title}</h2>
+                <!-- Responsive Grid -->
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                     {#each project.images as image}
                         <div class="relative group">
                             <img src={image.src} alt={image.title} class="w-full h-56 object-cover rounded-lg shadow-lg" />
@@ -58,7 +58,6 @@
             </div>
         {/each}
     </div>
-    
 </main>
 
 <style>
@@ -66,5 +65,4 @@
     max-width: 1500px;
     height: auto;
   }
-  
 </style>
