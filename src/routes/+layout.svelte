@@ -16,9 +16,9 @@
     </NavBrand>
     <NavHamburger  />
     <NavUl >
-      <NavLi href="/about">About</NavLi>
-      <NavLi href="/portfolio">Portfolio</NavLi>
-      <NavLi href="/contact">Contact</NavLi>
+      <NavLi href="/about" class="custom-hover">About</NavLi>
+      <NavLi href="/portfolio" class="custom-hover">Portfolio</NavLi>
+      <NavLi href="/contact" class="custom-hover">Contact</NavLi>
     </NavUl>
   </Navbar>
 

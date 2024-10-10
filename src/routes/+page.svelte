@@ -1,5 +1,5 @@
 <script lang="ts">
-    
+    import ArrowUpRightFromSquareOutline from "flowbite-svelte-icons/ArrowUpRightFromSquareOutline.svelte";
 </script>
 
 
@@ -10,23 +10,24 @@
       <div class="text-center lg:text-left">
         <h2 class="text-2xl font-extrabold leading-tight mb-2">Hi!</h2>
         <h1 class="text-4xl font-extrabold leading-tight mb-4">
-          I'm <span class="text-orange-500">Eliziah</span> <br>
+          I'm <span class="text-red-500">Eliziah</span> <br>
           a <span class="text-black">student Developer</span>
         </h1>
         <p class="text-gray-500 max-w-md mb-6">
-          Hi there, and welcome to my portfolio! Here, you’ll discover my projects and the skills I’ve developed as a developer. 
+          Welcome! I’m glad you stopped by. Here, you’ll discover my projects and the skills I’ve developed as a developer. 
           Explore my work, and if anything catches your eye, I’d love to hear from you. Let’s connect and collaborate!
         </p>
         
         <!-- Buttons -->
-        <div class="flex space-x-4 justify-center lg:justify-start">
-          <button class="bg-orange-500 text-white py-3 px-6 rounded-lg hover:bg-gray-800 flex items-center space-x-2">
-            <a href="/about">
-              <span>Learn more</span>
-              <i class='bx bx-chevrons-right'></i>
+        <div class="flex space-x-2 justify-center lg:justify-start">
+          <button class="bg-red-500 text-white py-3 px-6 rounded-lg hover:bg-gray-800 flex items-center space-x-2">
+            <a href="/about" class="flex items-center space-x-2">
+              <span>Learn more</span> 
+              <ArrowUpRightFromSquareOutline size="md" />
             </a>
           </button>
         </div>
+
       
     </div>
 

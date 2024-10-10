@@ -14,25 +14,26 @@
     <div class="bg-gray-50 p-8 w-3/4">
       <h2 class="text-2xl font-semibold mb-4">About me</h2>
       <p class="text-gray-700 text-justify">
-        As a student, balancing life and academics has been a challenge, but it’s also what keeps me motivated. Between classes, part-time work, and personal commitments, I’ve learned how to manage my time effectively, ensuring I always make space for my love of development. Coding, for me, is more than just a skill—it’s a creative outlet. Whether I'm working on a personal project or tackling a university assignment, it feels like I’m solving puzzles, and that keeps me excited every day.
+        Balancing life and academics as a student has been challenging, but it’s also what drives me. 
+        Between classes and personal commitments, I’ve learned to manage my time effectively while making sure there’s always space for my passion—coding. 
+        For me, development is more than just a skill; it’s a creative outlet where I can solve problems and bring ideas to life.
       </p>
 
       <br>
 
       <p class="text-gray-700 text-justify">
-        My journey as a student developer really took off when I started experimenting with frontend development. I found joy in creating user interfaces that not only look great but also enhance the user experience. Learning HTML, CSS, JavaScript, and diving into frameworks like React felt like discovering new tools to turn ideas into reality.
+        My journey as a developer really took off when I dove into frontend development. 
+        Learning HTML, CSS, and JavaScript, along with frameworks like React, opened up a whole new world of possibilities. 
+        Creating user interfaces that look great and provide a smooth experience became something I truly enjoy. 
+        Each project I work on pushes me to learn more and refine my skills.
       </p>
 
       <br>
 
       <p class="text-gray-700 text-justify">
-        Through trial and error, late-night coding sessions, and collaborating with fellow students, I’ve grown both in skill and confidence. I’ve also realized that learning never stops, especially in tech, where everything evolves so quickly. This mindset keeps me pushing forward, eager to keep improving.
-      </p>
-
-      <br>
-
-      <p class="text-gray-700 text-justify">
-        Outside of coding, I love spending time with friends and family, and when I’m not glued to my computer, I enjoy getting outdoors for a breath of fresh air. This balance helps me recharge and come back to my projects with fresh ideas.
+        Outside of coding, I love spending time with family and getting outdoors to clear my mind. 
+        This balance helps me stay focused and brings fresh ideas to my projects. 
+        Looking ahead, I’m excited for what’s next, knowing that every challenge I face brings me closer to becoming the developer I want to be.
       </p>
         
 
