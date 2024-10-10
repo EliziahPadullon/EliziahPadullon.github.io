@@ -26,17 +26,17 @@
       <div class="flex justify-center space-x-6">
         <!-- Facebook -->
         <a href={socialMediaLinks.facebook} target="_blank" rel="noopener noreferrer" aria-label="Facebook" class="hover:scale-110 transition-transform">
-          <FacebookSolid class="w-10 h-10" />
+          <FacebookSolid class="w-10 h-10 hover:text-blue-700" />
         </a>
         
         <!-- GitHub -->
         <a href={socialMediaLinks.github} target="_blank" rel="noopener noreferrer" aria-label="GitHub" class="hover:scale-110 transition-transform">
-          <GithubSolid class="w-10 h-10" />
+          <GithubSolid class="w-10 h-10 hover:text-gray-800" />
         </a>
 
         <!-- Gmail -->
         <a href={socialMediaLinks.gmail} target="_blank" rel="noopener noreferrer" aria-label="GitHub" class="hover:scale-110 transition-transform">
-          <EnvelopeSolid class="w-10 h-10" />
+          <EnvelopeSolid class="w-10 h-10 hover:text-red-500" />
         </a>
 
       </div>
