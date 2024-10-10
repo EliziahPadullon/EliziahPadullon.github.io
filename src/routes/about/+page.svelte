@@ -14,6 +14,7 @@
     <div class="bg-gray-50 p-8 w-3/4">
       <h2 class="text-2xl font-semibold mb-4">About me</h2>
       <p class="text-gray-700 text-justify">
+        Hello! my name is Eliziah Alexis Z. Padullon. I am currently studying Information Technology at Gordon College.
         Balancing life and academics as a student has been challenging, but it’s also what drives me. 
         Between classes and personal commitments, I’ve learned to manage my time effectively while making sure there’s always space for my passion—coding. 
         For me, development is more than just a skill; it’s a creative outlet where I can solve problems and bring ideas to life.
